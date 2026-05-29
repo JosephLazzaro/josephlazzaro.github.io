@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-((Site Under Construction))
-
 I am a PhD candidate in the Statistics Section of the Department of Mathematics at Imperial College London, supervised by Dr. Ciara Pike-Burke and Prof. Niall Adams.
 
 My research focuses on developing efficient reinforcement learning algorithms with strong theoretical guarantees. I am particularly interested in sequential decision-making, multi-armed bandits, active learning, Bayesian optimisation, preference feedback, RLHF, and LLM alignment and reasoning.
