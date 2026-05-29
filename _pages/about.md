@@ -13,4 +13,6 @@ I am a final PhD student in the department of Mathematics at Imperial College Lo
 
 I have completed a 6-month research internship at MediaTek Research under the supervision of Sattar Vakili. There we worked on RLHF projects both from a theoretical prespective on Bayesian Optimisation from Human (Preference) Feedback and also on practically driven qustions in efficient LLM alignment. 
 
-This summer I will be also be joining Spotify as a Research Intern!
+# News
+
+- This summer I will be also be joining Spotify as a Research Intern!
