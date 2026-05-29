@@ -9,10 +9,21 @@ redirect_from:
 
 ((Site Under Construction))
 
-I am a final PhD student in the department of Mathematics at Imperial College London, specifically within the statistics section. My research has broadly been focused on finding Reinforcement Learning algorithms which have nice theoretical guarantees on their performance, although I am excited about ML in general. Lately, I have been interested in problems around bandits, active learning, more general reinforcement learning, preference feedback, LLM alignment and reasoning. 
+I am a PhD candidate in the Statistics Section of the Department of Mathematics at Imperial College London, supervised by Dr. Ciara Pike-Burke and Prof. Niall Adams.
 
-I have completed a 6-month research internship at MediaTek Research under the supervision of Sattar Vakili. There we worked on RLHF projects both from a theoretical prespective on Bayesian Optimisation from Human (Preference) Feedback and also on practically driven qustions in efficient LLM alignment. 
+My research focuses on developing efficient reinforcement learning algorithms with strong theoretical guarantees. I am particularly interested in sequential decision-making, multi-armed bandits, active learning, Bayesian optimisation, preference feedback, RLHF, and LLM alignment and reasoning.
+
+I recently completed a six-month research internship at MediaTek Research, supervised by Dr. Sattar Vakili. During the internship, I worked on reinforcement learning from human feedback from both theoretical and practical perspectives, including Bayesian optimisation from preference feedback and efficient methods for LLM alignment.
+
+This summer, I will be joining Spotify as a Research Intern.
 
 # News
 
-- This summer I will be also be joining Spotify as a Research Intern!
+- **Summer 2026:** I will be joining Spotify as a Research Intern.
+- **2026:** Our paper *A Finite Time Analysis of Thompson Sampling for Bayesian Optimisation with Preferential Feedback* was accepted to AISTATS 2026.
+- **January 2026:** I completed a six-month research internship at MediaTek Research.
+- **2025:** Our paper *Fixed Confidence Multiple Change-Point Identification under Bandit Feedback* was accepted to ICML 2025.
+- **2025:** Our paper *Fixed-Budget Change Point Identification in Piecewise Constant Bandits* was accepted to AISTATS 2025.
+- **2025:** Our paper *Locally Differentially Private Thresholding Bandits* was accepted to EWRL 2025.
+- **May 2025:** I began a research collaboration with Dr. Alessio Russo and Prof. Aldo Pacchiano at Boston University on reinforcement learning theory.
+- **October 2022:** I began my PhD in Statistical Machine Learning at Imperial College London, supervised by Dr. Ciara Pike-Burke and Prof. Niall Adams.
