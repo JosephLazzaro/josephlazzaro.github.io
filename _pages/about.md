@@ -23,4 +23,3 @@ This summer, I will be joining Spotify as a Research Intern here in London!
 - **August 2025:** Our paper *Locally Differentially Private Thresholding Bandits* was accepted to EWRL 2025.
 - **May 2025:** Our paper *Fixed Confidence Multiple Change-Point Identification under Bandit Feedback* was accepted to ICML 2025.
 - **January 2025:** Our paper *Fixed-Budget Change Point Identification in Piecewise Constant Bandits* was accepted to AISTATS 2025.
-- **October 2022:** I began my PhD in Statistical Machine Learning at Imperial College London, supervised by Dr. Ciara Pike-Burke and Prof. Niall Adams.
